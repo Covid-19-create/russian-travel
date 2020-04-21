@@ -1,0 +1,11 @@
+.footer__link-item {
+    margin-right: 18px;
+}
+
+
+@media (max-width: 730px) {
+    .footer__link-item {
+        margin-right: 0px;
+        margin-bottom: 32px;
+    }
+}

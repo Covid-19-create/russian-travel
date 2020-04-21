@@ -1,0 +1,17 @@
+.place__text {
+    max-width: 484px;
+}
+
+
+@media (max-width: 1024px) {
+    .place__text {
+        max-width: 456px;
+    }
+}
+
+
+@media (max-width: 320px) {
+    .place__text {
+        padding: 32px 16px 0;
+    }
+}
