@@ -1,3 +1,5 @@
 .header__links {
-    align-self: end;
+    display: flex;
+    list-style: none;
+    padding: 0;
 }

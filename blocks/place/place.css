@@ -12,12 +12,16 @@
     grid-column-gap: 40px;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, auto);
+    grid-row-gap: 48px;
+    padding-top: 92px;
 }
 
 
 @media (max-width: 768px) {
     .place {
         grid-column-gap: 28px;
+        padding-top: 88px;
+        grid-row-gap: 28px;
     }
 }
 

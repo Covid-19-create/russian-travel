@@ -23,3 +23,10 @@
         padding: 48px 0 0;
     }
 }
+
+
+@media (max-width: 320px) {
+    .lead {
+        padding: 42px 0 0;
+    }
+}

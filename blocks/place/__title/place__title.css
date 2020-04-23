@@ -3,13 +3,9 @@
     font-size: 72px;
     font-weight: 900;
     max-width: 460px;
-    margin: 80px 0 48px;
+    margin: 0;
 }
 
-
-div.place:nth-child(1) > h2:nth-child(1) {
-    margin-top: 0px;
-}
 
 
 @media (max-width: 768px) {
@@ -27,6 +23,5 @@ div.place:nth-child(1) > h2:nth-child(1) {
         font-weight: 900;
         line-height: 35px;
         padding: 0 16px 0;
-        margin: 48px 0 32px;
     }
 }

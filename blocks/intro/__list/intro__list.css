@@ -1,11 +1,6 @@
 .intro__list {
-    font-size: 12px;
-    line-height: 18px;
-    font-weight: bold;
-    margin: 5px 0 0
-}
-
-
-.intro__list:nth-child(3) {
-    margin-top: 36px;
+	max-width: 690px;
+	list-style: none;
+	margin: 32px 0 0;
+	padding: 0;
 }

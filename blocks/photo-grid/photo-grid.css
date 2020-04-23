@@ -17,8 +17,10 @@
 }
 
 
-@media (max-width: 320px) {
+@media (max-width: 500px) {
     .photo-grid {
         padding: 64px 16px 0;
+        grid-gap: 12px;
+        grid-template-columns: repeat(1, auto);
     }
 }
